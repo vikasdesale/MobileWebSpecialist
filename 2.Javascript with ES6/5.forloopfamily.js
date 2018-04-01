@@ -22,4 +22,4 @@ for (const index in digits) {
   console.log(digits[index]);
 }
 
-//forEach uses forEach() array method.
+//forEach uses forEach() array metohd
